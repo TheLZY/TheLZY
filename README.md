@@ -3,8 +3,9 @@
 For now I'm focused on MSc in bioinformatics (CS), UCPH.
 
 I'm using Python mostly.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLZY&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![LZY's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLZY)](https://github.com/anuraghazra/github-readme-stats)
+[![LZY's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLZY&show_icons=true&include_all_commits=true&bg_color=DEG,#E0FFFF,#1E90FF)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
