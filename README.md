@@ -6,7 +6,7 @@ I'm using Python mostly.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLZY&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![LZY's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLZY&show_icons=true&theme=default&bg_color=45,35D8FD,5BB0F2,5F99ED,5F7BF0,5E5DF2&title_color=F8F8FF&text_color=F8F8FF&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![LZY's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLZY&show_icons=true&theme=default&bg_color=45,35D8FD,5BB0F2,5F99ED,5F7BF0,5E5DF2&title_color=F0FFFF&text_color=F0FFFF&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
