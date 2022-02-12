@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-For now I'm working on MSc in bioinformatics (CS), UCPH.
+For now I'm focused on MSc in bioinformatics (CS), UCPH.
 
-Using Python mostly.
+I'm using Python mostly.
 
 [![LZY's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLZY)](https://github.com/anuraghazra/github-readme-stats)
 
