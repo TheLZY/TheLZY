@@ -2,7 +2,7 @@
 
 For now I'm focused on MSc in bioinformatics (CS), UCPH.
 
-I'm using Python mostly.
+For languages I'm using Python mostly.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLZY&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
