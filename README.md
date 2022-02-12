@@ -1,6 +1,10 @@
-### Hi there 👋
+### <div align="center">Hi there 👋 </div>  
 
 ### <div align="center">I'm TheLZY, a full-time student 🚀</div>  
+
+
+<br/>  
+
 
 🏫 I'm working on MSc in bioinformatics (CS), UCPH
 
