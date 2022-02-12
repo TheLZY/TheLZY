@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-For now I'm focused on MSc in bioinformatics (CS), UCPH.
+I'm a student working on MSc in bioinformatics (CS), UCPH.
 
 For languages I'm using Python mostly.
 
