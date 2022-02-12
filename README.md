@@ -8,7 +8,13 @@
 
 💡 Fun fact about me: I may learn CS if not fot the Covid-19
 
-[![LZY's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLZY&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<br/>  
+
+
+
+[![LZY's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLZY)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![LZY's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLZY&show_icons=true&theme=default&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
