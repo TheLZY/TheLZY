@@ -10,7 +10,7 @@
 
 🐍 I'm mainly using Python currently
 
-💡 Fun fact about me: I may learn CS if not fot the Covid-19
+💡 Fun fact about me: I may learn CS if not experiencing the Covid-19
 
 
 
