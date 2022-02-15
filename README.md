@@ -29,6 +29,11 @@
 <br/>  
 
 
+[![LZY's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheLZY)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
