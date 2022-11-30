@@ -12,6 +12,8 @@
 
 💡 Fun fact about me: I may learn CS if not experiencing the Covid-19
 
+👉 Read more about me at https://thelzy.github.io./
+
 
 
 <br/>  
