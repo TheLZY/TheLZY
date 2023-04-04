@@ -20,17 +20,8 @@
 
 
 
-[![LZY's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLZY)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![LZY's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLZY)](https://github.com/anuraghazra/github-readme-stats) 
 [![LZY's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLZY&show_icons=true&theme=default&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-<br/>  
-
-
 [![LZY's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheLZY)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
