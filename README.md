@@ -6,11 +6,11 @@
 <br/>  
 
 
-🏫 I'm working on MSc in bioinformatics (CS), UCPH
+🏫 I'm pursuing PhD in Bioinformatics from NCSU
 
-🐍 I'm mainly using Python currently
+🐍 Mainly like using Python.
 
-💡 Fun fact about me: I may learn CS if not experiencing the Covid-19
+💡 Fun fact about me: I may focus on CS if not experiencing the Covid-19
 
 👉 Read more about me at https://thelzy.github.io./
 
